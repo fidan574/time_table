@@ -1,0 +1,81 @@
+body {background: black }
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+table {
+  border-spacing: 5px;
+}
+table {
+  background: white;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+table {
+  border-spacing: 5px;
+}
+
+tbody {
+  background: black;
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  height: 40%;
+  left: 10%;
+  margin: 20px auto;
+  overflow-y: scroll;
+  position: static;
+  width: 80%;
+}
+th#period {
+  text-transform: capitalize;
+}
+thead th {
+  background: #28e9e9;
+  color: black;
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  font-weight: 1600;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+tr {
+  background: #c2edf8;
+  border-bottom: 1px solid #fff;
+  margin-bottom: 5px;
+}
+tbody th {
+  background: #28e9e9;
+  color: black;
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  font-weight: 2500;
+  letter-spacing: 2px;
+  text-transform: lowercase;
+  padding: 10px;
+  text-align: center;
+}
+table {
+  border-spacing: 5;
+}
+
+td {
+  font-family: "Lato", sans-serif;
+  font-weight: 800;
+  padding: 20px;
+  text-align: center;
+}
+tr#row4 {
+  background: yellow;
+  color: black;
+}
